@@ -68,7 +68,4 @@ We welcome contributions from the community to enhance this Car Rental Image Dam
 4. Push your changes to your forked repository.
 5. Create a pull request detailing your changes and improvements.
 
-## License
-This project is licensed under the [MIT License](LICENSE), which means you are free to use, modify, and distribute it as per the terms of the license.
-
 ---
