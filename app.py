@@ -22,12 +22,12 @@ import base64
 import tempfile
 
 # Set the project_id
-PROJECT_ID = "ml-sea-product-study"
+PROJECT_ID = "YOUR_PROJECT_ID"
 
-# Set the region that we will be working with
+# Set the region that you will be working with
 REGION = "us-central1"
 
-# Set the image model name
+# Set the image model name if its different
 IMAGE_MODEL_NAME = "imagetext"
 
 
