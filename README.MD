@@ -1,6 +1,6 @@
 # Car Rental Image Damage Detection using VertexAI's LLM
 
-![Car Image](logo.png)
+![GCP Image](images/logo.png)
 
 Welcome to the Car Rental Image Damage Detection project, where we leverage VertexAI's LLM (Language and Vision Model) capability to accurately determine if a car is damaged based on the image uploaded by the user. This solution eliminates the ambiguity around car damage assessment and provides insights into the type of damage present.
 
@@ -46,10 +46,10 @@ The Car Rental Image Damage Detection system is user-friendly and straightforwar
 
 ## Example
 Here's a look of the frontend page:
-![Main-Page](Main.png)
+![Main-Page](images/Main.png)
 
 The Results:
-![Results](Results.png)
+![Results](images/Results.png)
 
 ## Installation
 If you'd like to set up this application on your own system, follow these installation steps:
