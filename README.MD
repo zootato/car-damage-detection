@@ -46,10 +46,10 @@ The Car Rental Image Damage Detection system is user-friendly and straightforwar
 
 ## Example
 Here's a look of the frontend page:
-(Main.png)
+[Main-Page](Main.png)
 
 The Results:
-(Results.png)
+[Results](Results.png)
 
 ## Installation
 If you'd like to set up this application on your own system, follow these installation steps:
